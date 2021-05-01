@@ -1,5 +1,5 @@
 node_modules
 /bin/www
-/routes/index.js
-/routes/users.js
+routes/index.js
+routes/users.js
 app.js
